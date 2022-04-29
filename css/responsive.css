@@ -1,0 +1,215 @@
+/* // Extra small devices (portrait phones, less than 576px) */
+@media (max-width: 575.98px) { 
+
+    .navbar-light .navbar-nav{
+        background:  rgba(51, 54, 81, 0.9);
+    }
+
+    #banner{
+        padding-top: 130px;
+        padding-bottom: 80px;
+    }
+
+    #banner .banner_text h1{
+        padding: 0;
+        font-size: 26px;
+    }
+
+    #banner .banner_text p{
+        padding: 0;
+        font-size: 15px;
+    }
+
+    #features{
+        margin-top: 20px;
+        margin-bottom: 50px;
+    }
+
+    #team{
+        padding-top: 50px;
+        padding-bottom: 50px;
+    }
+
+    #team .card{
+        margin-bottom: 30px;
+    }
+
+    #testi{
+        padding-top: 70px;
+        padding-bottom: 130px;
+    }
+
+    #testi::after{
+        display: none;
+    }
+
+    #testi .slider_child h3{
+        font-size: 24px;
+    }
+
+    #downl{
+        padding-top: 60px;
+        padding-bottom: 80px;
+    }
+    #downl .down_content h2{
+        font-size: 24px;
+    }
+
+    #contact{
+        padding-bottom: 20px;
+    }
+
+    #contact .cont_item{
+        margin-bottom: 30px;
+    }
+
+    footer p{
+        padding: 0;
+    }
+ }
+
+/* // Small devices (landscape phones, 576px and up) */
+@media (min-width: 576px) and (max-width: 767.98px) { 
+
+    .navbar-light .navbar-nav{
+        background:  rgba(51, 54, 81, 0.9);
+    }
+
+    #banner{
+        padding-top: 130px;
+        padding-bottom: 80px;
+    }
+
+    #banner .banner_text h1{
+        padding: 0;
+        font-size: 36px;
+    }
+
+    #banner .banner_text p{
+        padding: 0;
+        font-size: 17px;
+    }
+
+    #features{
+        margin-top: 20px;
+        margin-bottom: 50px;
+    }
+
+    #team{
+        padding-top: 50px;
+        padding-bottom: 50px;
+    }
+
+    #team .card{
+        margin-bottom: 30px;
+    }
+
+    #testi{
+        padding-top: 70px;
+        padding-bottom: 130px;
+    }
+
+    #testi::after{
+        display: none;
+    }
+
+    #testi .slider_child h3{
+        font-size: 24px;
+    }
+
+    #downl{
+        padding-top: 60px;
+        padding-bottom: 80px;
+    }
+    #downl .down_content h2{
+        font-size: 24px;
+    }
+
+    #contact{
+        padding-bottom: 20px;
+    }
+
+    #contact .cont_item{
+        margin-bottom: 30px;
+    }
+
+    footer p{
+        padding: 0;
+    }
+ }
+
+/* // Medium devices (tablets, 768px and up) */
+@media (min-width: 768px) and (max-width: 991.98px) { 
+
+    .navbar-light .navbar-nav{
+        background:  rgba(51, 54, 81, 0.9);
+    }
+
+    #banner{
+        padding-top: 130px;
+        padding-bottom: 80px;
+    }
+
+    #banner .banner_text h1{
+        padding: 0;
+        font-size: 36px;
+    }
+
+    #banner .banner_text p{
+        padding: 0;
+        font-size: 17px;
+    }
+
+    #features{
+        margin-top: 20px;
+        margin-bottom: 50px;
+    }
+
+    #team{
+        padding-top: 50px;
+        padding-bottom: 50px;
+    }
+
+    #team .card{
+        margin-bottom: 30px;
+    }
+
+    #testi{
+        padding-top: 70px;
+        padding-bottom: 130px;
+    }
+
+    #testi .slider_child h3{
+        font-size: 24px;
+    }
+
+    #downl{
+        padding-top: 60px;
+        padding-bottom: 80px;
+    }
+    #downl .down_content h2{
+        font-size: 24px;
+    }
+
+    #contact{
+        padding-bottom: 20px;
+    }
+
+    #contact .cont_item{
+        margin-bottom: 30px;
+    }
+
+    footer p{
+        padding: 0;
+    }
+ }
+
+/* // Large devices (desktops, 992px and up) */
+@media (min-width: 992px) and (max-width: 1199.98px) { 
+
+ }
+
+/* // Extra large devices (large desktops, 1200px and up) */
+@media (min-width: 1200px) { 
+
+ }
